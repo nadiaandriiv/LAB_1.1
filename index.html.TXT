@@ -9,5 +9,7 @@
 &lt;p&gt;This is a website&lt;br&gt;with &lt;em&gt;br&lt;/em&gt; element&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This is new strong correct text with new commit&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This is &lt;em&gt;My first Pull Request&lt;/em&gt; from branch new_pullrequest_1&lt;/p&gt;
+&lt;p&gt;This is &lt;u&gt;My first Pull Request Conflict&lt;u&gt;&gt; from branch
+new_pullrequest_1&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;
