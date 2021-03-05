@@ -1,13 +1,16 @@
-&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-&lt;meta charset=&quot;utf-8&quot;&gt;
-&lt;title&gt;Hello World&lt;/title&gt;
-
-&lt;/head&gt;
-&lt;body&gt;
-&lt;h1&gt;Hello World&lt;/h1&gt;
-&lt;p&gt;This is a website&lt;br&gt;with &lt;em&gt;br&lt;/em&gt; element&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;This is strong text with new commit&lt;/strong&gt;&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Hello World</title>
+</head>
+<body>
+<h1>Hello World</h1>
+<p>This is a website<br>with <em>br</em> element</p>
+<<<<<<<HEAD
+<p><strong>This is strong text with new commit</strong></p>
+=======
+<p><strong>This is strong correct text with new commit</strong></p>
+>>>>>>> new_branch_1
+</body>
+</html>
